@@ -1,28 +1,34 @@
 import java.util.Arrays;
 
+/**
+ * エラトステネスの篩
+ * 1から10000までの素数を標準出力するプログラム
+ */
 public class Eratosthenes {
     public static void main(String[] args) {
         int n = 10000;
-        boolean[] prime = new boolean[n+1];
-        Arrays.fill(prime, true);
+        boolean[] primeArray = new boolean[n+1];
+        Arrays.fill(primeArray, true);
 
-        prime[0] = false;
-        prime[1] = false;
+        primeArray[0] = false;
+        primeArray[1] = false;
 
         for (int i = 2; i < Math.sqrt(n); i++) {
-            if (!prime[i]) {
+            // すでに合成数判定されているものは処理をskip
+            if (!primeArray[i]) {
                 continue;
             }
+
+            // iの倍数をふるい落とす
             for (int j = i * 2; j <= n; j += i) {
-                prime[j] = false;
+                primeArray[j] = false;
             }
         }
 
-        for (int i = 0; i < prime.length; i++) {
-            if (prime[i]) {
+        for (int i = 0; i < primeArray.length; i++) {
+            if (primeArray[i]) {
                 System.out.println(i);
             }
         }
-
     }
 }

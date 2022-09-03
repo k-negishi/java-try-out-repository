@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c9124b4-243f-43f3-b67d-8e5a5b26fc95" name="デフォルト変更リスト" comment="" />
+    <list default="true" id="5c9124b4-243f-43f3-b67d-8e5a5b26fc95" name="デフォルト変更リスト" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Eratosthenes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Eratosthenes.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,14 +20,27 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2EG3NwX7cxrN8z60mtuxgOO0oZx" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="モジュール" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager" selected="アプリケーション.Eratosthenes">
     <configuration name="Eratosthenes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -41,15 +60,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -69,18 +86,54 @@
       <option name="presentableId" value="Default" />
       <updated>1662208066652</updated>
       <workItem from="1662208067895" duration="76000" />
-      <workItem from="1662208339214" duration="1026000" />
+      <workItem from="1662208339214" duration="1618000" />
+      <workItem from="1662209970787" duration="915000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="208" y="41" width="1231" height="843" key="#プロジェクト構造" timestamp="1662209820375">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="208" y="41" width="1231" height="843" key="#プロジェクト構造/0.25.1440.875@0.25.1440.875" timestamp="1662209820375" />
+    <state width="1396" height="228" key="GridCell.Tab.0.bottom" timestamp="1662209958883">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1396" height="228" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1662209958883" />
+    <state width="1396" height="228" key="GridCell.Tab.0.center" timestamp="1662209958882">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1396" height="228" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1662209958882" />
+    <state width="1396" height="228" key="GridCell.Tab.0.left" timestamp="1662209958882">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1396" height="228" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1662209958882" />
+    <state width="1396" height="228" key="GridCell.Tab.0.right" timestamp="1662209958883">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1396" height="228" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1662209958883" />
     <state x="353" y="77" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1662208360030">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="353" y="77" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.25.1440.875@0.25.1440.875" timestamp="1662208360030" />
+    <state x="387" y="174" width="665" height="576" key="find.popup" timestamp="1662210016042">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="387" y="174" width="665" height="576" key="find.popup/0.25.1440.875@0.25.1440.875" timestamp="1662210016042" />
     <state x="13" y="60" key="new project wizard" timestamp="1662208130405">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
