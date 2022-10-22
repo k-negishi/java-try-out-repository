@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -11,11 +14,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c9124b4-243f-43f3-b67d-8e5a5b26fc95" name="デフォルト変更リスト" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yumemi-problem/game_score_log.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yumemi-problem/src/GetRanking.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-samples.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-samples.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-samples/Eratosthenes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-samples/Eratosthenes.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,8 @@
     <property name="project.structure.last.edited" value="モジュール" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
     <property name="settings.editor.splitter.proportion" value="0.2886143" />
   </component>
   <component name="RecentsManager">
@@ -109,7 +111,7 @@
       <workItem from="1662208339214" duration="1618000" />
       <workItem from="1662209970787" duration="2510000" />
       <workItem from="1662217527499" duration="822000" />
-      <workItem from="1666416086239" duration="9758000" />
+      <workItem from="1666416086239" duration="10860000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1662214467297</created>
@@ -125,7 +127,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662214494518</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit">
+      <created>1666426754908</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666426754908</updated>
+    </task>
+    <task id="LOCAL-00004" summary="エラトステネスの篩を実装してみる">
+      <created>1666426767017</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666426767017</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,39 +160,49 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit" />
     <MESSAGE value="type" />
-    <option name="LAST_COMMIT_MESSAGE" value="type" />
+    <MESSAGE value="commit" />
+    <MESSAGE value="エラトステネスの篩を実装してみる" />
+    <MESSAGE value="といてみた&#10;&#10;【新卒・中途採用】サーバーサイドエンジニア応募者向けの模試 | ゆめみ&#10;https://www.yumemi.co.jp/serverside_recruit" />
+    <option name="LAST_COMMIT_MESSAGE" value="といてみた&#10;&#10;【新卒・中途採用】サーバーサイドエンジニア応募者向けの模試 | ゆめみ&#10;https://www.yumemi.co.jp/serverside_recruit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="786" y="274" key="#com.intellij.ide.util.MemberChooser" timestamp="1666425728719">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state x="786" y="274" key="#com.intellij.ide.util.MemberChooser/1920.25.1920.1055/1149.1105.1280.775/0.25.1920.1055@0.25.1920.1055" timestamp="1666425728719" />
+    <state x="578" y="237" key="#インスペクション" timestamp="1666426809769">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="578" y="237" key="#インスペクション/1920.25.1920.1055/1149.1105.1280.775/0.25.1920.1055@0.25.1920.1055" timestamp="1666426809769" />
     <state x="208" y="41" width="1231" height="843" key="#プロジェクト構造" timestamp="1662209820375">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="208" y="41" width="1231" height="843" key="#プロジェクト構造/0.25.1440.875@0.25.1440.875" timestamp="1662209820375" />
-    <state width="1844" height="225" key="GridCell.Tab.0.bottom" timestamp="1666426068667">
+    <state x="645" y="408" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1666427274640">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="645" y="408" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1920.25.1920.1055/1149.1105.1280.775/0.25.1920.1055@0.25.1920.1055" timestamp="1666427274640" />
+    <state width="1844" height="225" key="GridCell.Tab.0.bottom" timestamp="1666427412318">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state width="1396" height="228" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1662209958883" />
-    <state width="1844" height="225" key="GridCell.Tab.0.bottom/1920.25.1920.1055/1149.1105.1280.775/0.25.1920.1055@0.25.1920.1055" timestamp="1666426068667" />
-    <state width="1844" height="225" key="GridCell.Tab.0.center" timestamp="1666426068666">
+    <state width="1844" height="225" key="GridCell.Tab.0.bottom/1920.25.1920.1055/1149.1105.1280.775/0.25.1920.1055@0.25.1920.1055" timestamp="1666427412318" />
+    <state width="1844" height="225" key="GridCell.Tab.0.center" timestamp="1666427412317">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state width="1396" height="228" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1662209958882" />
-    <state width="1844" height="225" key="GridCell.Tab.0.center/1920.25.1920.1055/1149.1105.1280.775/0.25.1920.1055@0.25.1920.1055" timestamp="1666426068666" />
-    <state width="1844" height="225" key="GridCell.Tab.0.left" timestamp="1666426068665">
+    <state width="1844" height="225" key="GridCell.Tab.0.center/1920.25.1920.1055/1149.1105.1280.775/0.25.1920.1055@0.25.1920.1055" timestamp="1666427412317" />
+    <state width="1844" height="225" key="GridCell.Tab.0.left" timestamp="1666427412316">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state width="1396" height="228" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1662209958882" />
-    <state width="1844" height="225" key="GridCell.Tab.0.left/1920.25.1920.1055/1149.1105.1280.775/0.25.1920.1055@0.25.1920.1055" timestamp="1666426068665" />
-    <state width="1844" height="225" key="GridCell.Tab.0.right" timestamp="1666426068666">
+    <state width="1844" height="225" key="GridCell.Tab.0.left/1920.25.1920.1055/1149.1105.1280.775/0.25.1920.1055@0.25.1920.1055" timestamp="1666427412316" />
+    <state width="1844" height="225" key="GridCell.Tab.0.right" timestamp="1666427412317">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state width="1396" height="228" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1662209958883" />
-    <state width="1844" height="225" key="GridCell.Tab.0.right/1920.25.1920.1055/1149.1105.1280.775/0.25.1920.1055@0.25.1920.1055" timestamp="1666426068666" />
+    <state width="1844" height="225" key="GridCell.Tab.0.right/1920.25.1920.1055/1149.1105.1280.775/0.25.1920.1055@0.25.1920.1055" timestamp="1666427412317" />
     <state width="1605" height="352" key="GridCell.Tab.1.bottom" timestamp="1666424950127">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
@@ -193,10 +219,10 @@
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state width="1605" height="352" key="GridCell.Tab.1.right/1920.25.1920.1055/1149.1105.1280.775/0.25.1920.1055@0.25.1920.1055" timestamp="1666424950127" />
-    <state x="556" y="188" width="1133" height="728" key="SettingsEditor" timestamp="1666416503125">
+    <state x="556" y="188" width="1133" height="728" key="SettingsEditor" timestamp="1666427652221">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
-    <state x="556" y="188" width="1133" height="728" key="SettingsEditor/1920.25.1920.1055/1149.1105.1280.775/0.25.1920.1055@0.25.1920.1055" timestamp="1666416503125" />
+    <state x="556" y="188" width="1133" height="728" key="SettingsEditor/1920.25.1920.1055/1149.1105.1280.775/0.25.1920.1055@0.25.1920.1055" timestamp="1666427652221" />
     <state x="353" y="77" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1662208360030">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
@@ -209,6 +235,10 @@
       <screen x="1920" y="25" width="1920" height="1055" />
     </state>
     <state x="2145" y="119" key="editAsTableFormatDialogDimension/1920.25.1920.1055/1149.1105.1280.775/0.25.1920.1055@0.25.1920.1055" timestamp="1666426047946" />
+    <state x="682" y="304" key="extract.method.dialog" timestamp="1666427388607">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="682" y="304" key="extract.method.dialog/1920.25.1920.1055/1149.1105.1280.775/0.25.1920.1055@0.25.1920.1055" timestamp="1666427388607" />
     <state x="387" y="174" width="665" height="576" key="find.popup" timestamp="1662210016042">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
