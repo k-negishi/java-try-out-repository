@@ -13,9 +13,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c9124b4-243f-43f3-b67d-8e5a5b26fc95" name="デフォルト変更リスト" comment="">
+    <list default="true" id="5c9124b4-243f-43f3-b67d-8e5a5b26fc95" name="デフォルト変更リスト" comment="intellijの設定">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-samples.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-try-out-repository.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java-samples/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-samples/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +45,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/yumemi-problem/dummy-files" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="モジュール" />
     <property name="project.structure.proportion" value="0.15" />
@@ -69,7 +72,7 @@
   <component name="RunManager" selected="アプリケーション.Solution">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="java-samples" />
+      <module name="java-try-out-repository" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -102,19 +105,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="アプリケーション.Solution" />
@@ -138,7 +128,8 @@
       <workItem from="1662209970787" duration="2510000" />
       <workItem from="1662217527499" duration="822000" />
       <workItem from="1666416086239" duration="34859000" />
-      <workItem from="1666525329993" duration="355000" />
+      <workItem from="1666525329993" duration="859000" />
+      <workItem from="1666530940305" duration="186000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1662214467297</created>
@@ -217,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666525669787</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="intellijの設定">
+      <created>1666525862506</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1666525862506</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,7 +243,8 @@
     <MESSAGE value="リポジトリ設定" />
     <MESSAGE value="ゆめみの問題のついでに、Randomなscvを吐き出すクラスを作成" />
     <MESSAGE value="hacker rankやってみた" />
-    <option name="LAST_COMMIT_MESSAGE" value="hacker rankやってみた" />
+    <MESSAGE value="intellijの設定" />
+    <option name="LAST_COMMIT_MESSAGE" value="intellijの設定" />
   </component>
   <component name="WindowStateProjectService">
     <state x="786" y="274" key="#com.intellij.ide.util.MemberChooser" timestamp="1666445953047">
@@ -260,10 +259,10 @@
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state x="578" y="237" key="#インスペクション/1920.25.1920.1055/1149.1105.1280.775/0.25.1920.1055@0.25.1920.1055" timestamp="1666426809769" />
-    <state x="277" y="44" width="1231" height="843" key="#プロジェクト構造" timestamp="1666448762703">
-      <screen x="0" y="25" width="1920" height="1055" />
+    <state x="208" y="41" width="1231" height="843" key="#プロジェクト構造" timestamp="1666530744983">
+      <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="208" y="41" width="1231" height="843" key="#プロジェクト構造/0.25.1440.875@0.25.1440.875" timestamp="1662209820375" />
+    <state x="208" y="41" width="1231" height="843" key="#プロジェクト構造/0.25.1440.875@0.25.1440.875" timestamp="1666530744983" />
     <state x="277" y="44" key="#プロジェクト構造/1920.25.1920.1055/1149.1105.1280.775/0.25.1920.1055@0.25.1920.1055" timestamp="1666448762703" />
     <state x="645" y="408" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1666427274640">
       <screen x="0" y="25" width="1920" height="1055" />
