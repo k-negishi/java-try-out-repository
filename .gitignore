@@ -7,3 +7,6 @@
 # エディターベースの HTTP クライアントリクエスト
 /httpRequests/
 /out/
+/yumemi-problem/dummy-files/
+/secret-problems/
+/src/Main.java
