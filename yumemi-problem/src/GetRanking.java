@@ -4,6 +4,7 @@ import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.nio.file.Files;
 import java.nio.file.Path;
+import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.LinkedHashMap;
@@ -24,6 +25,7 @@ public class GetRanking {
     public static final int DEFAULT_PLAY_COUNT = 1;
 
     public static void main(String[] args) throws IOException {
+//        System.out.println("start" + LocalDateTime.now());
         Path rankingPath = Path.of("yumemi-problem/game_score_log.csv");
 
         // System.out.println(Files.readString(rankingPath));
@@ -79,6 +81,7 @@ public class GetRanking {
                 playerScoreList.set(index, newRecord);
             }
         }
+//        System.out.println("読み込み完了" + LocalDateTime.now());
 
         // 平均を計算する
         Map<String, Integer> averageScoreMap = new HashMap<>();
@@ -89,11 +92,15 @@ public class GetRanking {
             averageScoreMap.put(playerId, averageScore);
         }
 
+//        System.out.println("平均計算完了" + LocalDateTime.now());
+
         // スコアが高い順にソート http://kevin3sei.blog95.fc2.com/blog-entry-159.html
         // TODO:もっといい方法があるはず
         Map<String, Integer> sortedMap = averageScoreMap.entrySet().stream()
                 .sorted(Entry.<String, Integer>comparingByValue().reversed())
                 .collect(Collectors.toMap(Entry::getKey, Entry::getValue, (e1, e2) -> e1, LinkedHashMap::new));
+
+//        System.out.println("ソート完了" + LocalDateTime.now());
 
         // forループに入れるためにList化。
         // TODO:本当はStreamで上手くやりたいが...
@@ -115,10 +122,12 @@ public class GetRanking {
                 ranking++;
             }
             // ランキング3位まででbreak
-            if (ranking > 3) break;
+            if (ranking > 10) break;
 
             System.out.println(ranking + "," + playerId + "," + averageScore);
         }
+
+//        System.out.println("処理ぜんぶ完了" + LocalDateTime.now());
 
 
     }
