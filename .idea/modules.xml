@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/m3-problems/CountingSort1/CountingSort1.iml" filepath="$PROJECT_DIR$/m3-problems/CountingSort1/CountingSort1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/m3-problems/DiagonalDifference/DiagonalDifference.iml" filepath="$PROJECT_DIR$/m3-problems/DiagonalDifference/DiagonalDifference.iml" />
-      <module fileurl="file://$PROJECT_DIR$/m3-problems/FlippingBits/FlippingBits.iml" filepath="$PROJECT_DIR$/m3-problems/FlippingBits/FlippingBits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secret-problems/CountingSort1/CountingSort1.iml" filepath="$PROJECT_DIR$/secret-problems/CountingSort1/CountingSort1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secret-problems/DiagonalDifference/DiagonalDifference.iml" filepath="$PROJECT_DIR$/secret-problems/DiagonalDifference/DiagonalDifference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secret-problems/FlippingBits/FlippingBits.iml" filepath="$PROJECT_DIR$/secret-problems/FlippingBits/FlippingBits.iml" />
       <module fileurl="file://$PROJECT_DIR$/hacker-rank/LonelyInteger/LonelyInteger.iml" filepath="$PROJECT_DIR$/hacker-rank/LonelyInteger/LonelyInteger.iml" />
       <module fileurl="file://$PROJECT_DIR$/hacker-rank/MinMaxSum/MinMaxSum.iml" filepath="$PROJECT_DIR$/hacker-rank/MinMaxSum/MinMaxSum.iml" />
       <module fileurl="file://$PROJECT_DIR$/hacker-rank/PlusMinus/PlusMinus.iml" filepath="$PROJECT_DIR$/hacker-rank/PlusMinus/PlusMinus.iml" />
@@ -12,7 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/hacker-rank/TimeConversion/TimeConversion.iml" filepath="$PROJECT_DIR$/hacker-rank/TimeConversion/TimeConversion.iml" />
       <module fileurl="file://$PROJECT_DIR$/hacker-rank/hacker-rank.iml" filepath="$PROJECT_DIR$/hacker-rank/hacker-rank.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-samples.iml" filepath="$PROJECT_DIR$/java-samples.iml" />
-      <module fileurl="file://$PROJECT_DIR$/m3-problems/m3-problems.iml" filepath="$PROJECT_DIR$/m3-problems/m3-problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secret-problems/secret-problems.iml" filepath="$PROJECT_DIR$/secret-problems/secret-problems.iml" />
     </modules>
   </component>
 </project>

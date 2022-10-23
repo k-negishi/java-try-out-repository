@@ -14,20 +14,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c9124b4-243f-43f3-b67d-8e5a5b26fc95" name="デフォルト変更リスト" comment="">
-      <change afterPath="$PROJECT_DIR$/hacker-rank/LonelyInteger/LonelyInteger.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hacker-rank/MinMaxSum/MinMaxSum.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hacker-rank/PlusMinus/PlusMinus.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hacker-rank/SparseArrays/SparseArrays.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hacker-rank/TimeConversion/TimeConversion.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hacker-rank/hacker-rank.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yumemi-problem/src/RandomCSVGeneration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-samples.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-samples.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java-samples/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-samples/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yumemi-problem/src/GetRanking.java" beforeDir="false" afterPath="$PROJECT_DIR$/yumemi-problem/src/GetRanking.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,13 +102,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -148,6 +138,7 @@
       <workItem from="1662209970787" duration="2510000" />
       <workItem from="1662217527499" duration="822000" />
       <workItem from="1666416086239" duration="34859000" />
+      <workItem from="1666525329993" duration="355000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1662214467297</created>
@@ -191,7 +182,42 @@
       <option name="project" value="LOCAL" />
       <updated>1666427721461</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="リポジトリ設定">
+      <created>1666525526871</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666525526871</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ゆめみの問題 コメントアウト">
+      <created>1666525581268</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666525581268</updated>
+    </task>
+    <task id="LOCAL-00009" summary="リポジトリ設定">
+      <created>1666525593880</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1666525593880</updated>
+    </task>
+    <task id="LOCAL-00010" summary="ゆめみの問題のついでに、Randomなscvを吐き出すクラスを作成">
+      <created>1666525647806</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1666525647806</updated>
+    </task>
+    <task id="LOCAL-00011" summary="hacker rankやってみた">
+      <created>1666525669787</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1666525669787</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,7 +241,11 @@
     <MESSAGE value="エラトステネスの篩を実装してみる" />
     <MESSAGE value="ideaの設定" />
     <MESSAGE value="といてみた&#10;&#10;【新卒・中途採用】サーバーサイドエンジニア応募者向けの模試 | ゆめみ&#10;https://www.yumemi.co.jp/serverside_recruit" />
-    <option name="LAST_COMMIT_MESSAGE" value="といてみた&#10;&#10;【新卒・中途採用】サーバーサイドエンジニア応募者向けの模試 | ゆめみ&#10;https://www.yumemi.co.jp/serverside_recruit" />
+    <MESSAGE value="ゆめみの問題 コメントアウト" />
+    <MESSAGE value="リポジトリ設定" />
+    <MESSAGE value="ゆめみの問題のついでに、Randomなscvを吐き出すクラスを作成" />
+    <MESSAGE value="hacker rankやってみた" />
+    <option name="LAST_COMMIT_MESSAGE" value="hacker rankやってみた" />
   </component>
   <component name="WindowStateProjectService">
     <state x="786" y="274" key="#com.intellij.ide.util.MemberChooser" timestamp="1666445953047">
