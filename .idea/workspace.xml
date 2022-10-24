@@ -14,10 +14,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c9124b4-243f-43f3-b67d-8e5a5b26fc95" name="デフォルト変更リスト" comment="intellijの設定">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yumemi-problem/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-samples.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-try-out-repository.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-samples/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-samples/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -130,6 +128,8 @@
       <workItem from="1666416086239" duration="34859000" />
       <workItem from="1666525329993" duration="859000" />
       <workItem from="1666530940305" duration="186000" />
+      <workItem from="1666531147647" duration="734000" />
+      <workItem from="1666604958922" duration="358000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1662214467297</created>
@@ -215,7 +215,28 @@
       <option name="project" value="LOCAL" />
       <updated>1666525862506</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="idea設定変更">
+      <created>1666531227381</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1666531227381</updated>
+    </task>
+    <task id="LOCAL-00014" summary="idea設定変更">
+      <created>1666531242564</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1666531242564</updated>
+    </task>
+    <task id="LOCAL-00015" summary="hackerrankの回答">
+      <created>1666531266163</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1666531266163</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,7 +265,9 @@
     <MESSAGE value="ゆめみの問題のついでに、Randomなscvを吐き出すクラスを作成" />
     <MESSAGE value="hacker rankやってみた" />
     <MESSAGE value="intellijの設定" />
-    <option name="LAST_COMMIT_MESSAGE" value="intellijの設定" />
+    <MESSAGE value="idea設定変更" />
+    <MESSAGE value="hackerrankの回答" />
+    <option name="LAST_COMMIT_MESSAGE" value="hackerrankの回答" />
   </component>
   <component name="WindowStateProjectService">
     <state x="786" y="274" key="#com.intellij.ide.util.MemberChooser" timestamp="1666445953047">
@@ -259,10 +282,10 @@
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state x="578" y="237" key="#インスペクション/1920.25.1920.1055/1149.1105.1280.775/0.25.1920.1055@0.25.1920.1055" timestamp="1666426809769" />
-    <state x="208" y="41" width="1231" height="843" key="#プロジェクト構造" timestamp="1666530744983">
+    <state x="208" y="41" width="1231" height="843" key="#プロジェクト構造" timestamp="1666531199620">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="208" y="41" width="1231" height="843" key="#プロジェクト構造/0.25.1440.875@0.25.1440.875" timestamp="1666530744983" />
+    <state x="208" y="41" width="1231" height="843" key="#プロジェクト構造/0.25.1440.875@0.25.1440.875" timestamp="1666531199620" />
     <state x="277" y="44" key="#プロジェクト構造/1920.25.1920.1055/1149.1105.1280.775/0.25.1920.1055@0.25.1920.1055" timestamp="1666448762703" />
     <state x="645" y="408" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1666427274640">
       <screen x="0" y="25" width="1920" height="1055" />
