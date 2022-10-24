@@ -14,9 +14,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c9124b4-243f-43f3-b67d-8e5a5b26fc95" name="デフォルト変更リスト" comment="intellijの設定">
-      <change afterPath="$PROJECT_DIR$/hacker-rank/Pangrams/Pangrams.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hacker-rank/Pangrams/src/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -142,7 +139,7 @@
       <workItem from="1666530940305" duration="186000" />
       <workItem from="1666531147647" duration="734000" />
       <workItem from="1666604958922" duration="1958000" />
-      <workItem from="1666618327446" duration="836000" />
+      <workItem from="1666618327446" duration="1293000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1662214467297</created>
@@ -291,7 +288,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666608647096</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="solve HackerRank Pangrams&#10;https://www.hackerrank.com/challenges/one-month-preparation-kit-pangrams/problem?isFullScreen=true&amp;h_l=interview&amp;playlist_slugs%5B%5D=preparation-kits&amp;playlist_slugs%5B%5D=one-month-preparation-kit&amp;playlist_slugs%5B%5D=one-month-week-one">
+      <created>1666619343822</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1666619343822</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -327,7 +331,8 @@
     <MESSAGE value="gitignore" />
     <MESSAGE value="idea変更" />
     <MESSAGE value="fix comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix comments" />
+    <MESSAGE value="solve HackerRank Pangrams&#10;https://www.hackerrank.com/challenges/one-month-preparation-kit-pangrams/problem?isFullScreen=true&amp;h_l=interview&amp;playlist_slugs%5B%5D=preparation-kits&amp;playlist_slugs%5B%5D=one-month-preparation-kit&amp;playlist_slugs%5B%5D=one-month-week-one" />
+    <option name="LAST_COMMIT_MESSAGE" value="solve HackerRank Pangrams&#10;https://www.hackerrank.com/challenges/one-month-preparation-kit-pangrams/problem?isFullScreen=true&amp;h_l=interview&amp;playlist_slugs%5B%5D=preparation-kits&amp;playlist_slugs%5B%5D=one-month-preparation-kit&amp;playlist_slugs%5B%5D=one-month-week-one" />
   </component>
   <component name="WindowStateProjectService">
     <state x="786" y="274" key="#com.intellij.ide.util.MemberChooser" timestamp="1666445953047">
@@ -342,57 +347,66 @@
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state x="578" y="237" key="#インスペクション/1920.25.1920.1055/1149.1105.1280.775/0.25.1920.1055@0.25.1920.1055" timestamp="1666426809769" />
-    <state x="208" y="41" width="1231" height="843" key="#プロジェクト構造" timestamp="1666531199620">
-      <screen x="0" y="25" width="1440" height="875" />
+    <state x="277" y="44" width="1231" height="843" key="#プロジェクト構造" timestamp="1666619170051">
+      <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state x="208" y="41" width="1231" height="843" key="#プロジェクト構造/0.25.1440.875@0.25.1440.875" timestamp="1666531199620" />
+    <state x="277" y="44" key="#プロジェクト構造/1149.1105.1280.775/1920.25.1920.1055/0.25.1920.1055@0.25.1920.1055" timestamp="1666619170051" />
     <state x="277" y="44" key="#プロジェクト構造/1920.25.1920.1055/1149.1105.1280.775/0.25.1920.1055@0.25.1920.1055" timestamp="1666448762703" />
     <state x="645" y="408" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1666427274640">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state x="645" y="408" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1920.25.1920.1055/1149.1105.1280.775/0.25.1920.1055@0.25.1920.1055" timestamp="1666427274640" />
-    <state width="1844" height="352" key="GridCell.Tab.0.bottom" timestamp="1666506009410">
+    <state width="1876" height="353" key="GridCell.Tab.0.bottom" timestamp="1666619252934">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state width="1396" height="228" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1662209958883" />
+    <state width="1876" height="353" key="GridCell.Tab.0.bottom/1149.1105.1280.775/1920.25.1920.1055/0.25.1920.1055@0.25.1920.1055" timestamp="1666619252934" />
     <state width="1844" height="352" key="GridCell.Tab.0.bottom/1920.25.1080.1895/480.1105.1440.875/0.25.1920.1055@0.25.1920.1055" timestamp="1666506009410" />
     <state width="1844" height="225" key="GridCell.Tab.0.bottom/1920.25.1920.1055/1149.1105.1280.775/0.25.1920.1055@0.25.1920.1055" timestamp="1666498487659" />
-    <state width="1844" height="352" key="GridCell.Tab.0.center" timestamp="1666506009409">
+    <state width="1876" height="353" key="GridCell.Tab.0.center" timestamp="1666619252933">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state width="1396" height="228" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1662209958882" />
+    <state width="1876" height="353" key="GridCell.Tab.0.center/1149.1105.1280.775/1920.25.1920.1055/0.25.1920.1055@0.25.1920.1055" timestamp="1666619252933" />
     <state width="1844" height="352" key="GridCell.Tab.0.center/1920.25.1080.1895/480.1105.1440.875/0.25.1920.1055@0.25.1920.1055" timestamp="1666506009409" />
     <state width="1844" height="225" key="GridCell.Tab.0.center/1920.25.1920.1055/1149.1105.1280.775/0.25.1920.1055@0.25.1920.1055" timestamp="1666498487657" />
-    <state width="1844" height="352" key="GridCell.Tab.0.left" timestamp="1666506009409">
+    <state width="1876" height="353" key="GridCell.Tab.0.left" timestamp="1666619252932">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state width="1396" height="228" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1662209958882" />
+    <state width="1876" height="353" key="GridCell.Tab.0.left/1149.1105.1280.775/1920.25.1920.1055/0.25.1920.1055@0.25.1920.1055" timestamp="1666619252932" />
     <state width="1844" height="352" key="GridCell.Tab.0.left/1920.25.1080.1895/480.1105.1440.875/0.25.1920.1055@0.25.1920.1055" timestamp="1666506009409" />
     <state width="1844" height="225" key="GridCell.Tab.0.left/1920.25.1920.1055/1149.1105.1280.775/0.25.1920.1055@0.25.1920.1055" timestamp="1666498487657" />
-    <state width="1844" height="352" key="GridCell.Tab.0.right" timestamp="1666506009410">
+    <state width="1876" height="353" key="GridCell.Tab.0.right" timestamp="1666619252933">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state width="1396" height="228" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1662209958883" />
+    <state width="1876" height="353" key="GridCell.Tab.0.right/1149.1105.1280.775/1920.25.1920.1055/0.25.1920.1055@0.25.1920.1055" timestamp="1666619252933" />
     <state width="1844" height="352" key="GridCell.Tab.0.right/1920.25.1080.1895/480.1105.1440.875/0.25.1920.1055@0.25.1920.1055" timestamp="1666506009410" />
     <state width="1844" height="225" key="GridCell.Tab.0.right/1920.25.1920.1055/1149.1105.1280.775/0.25.1920.1055@0.25.1920.1055" timestamp="1666498487658" />
-    <state width="1844" height="352" key="GridCell.Tab.1.bottom" timestamp="1666506009411">
+    <state width="1876" height="353" key="GridCell.Tab.1.bottom" timestamp="1666619256260">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
+    <state width="1876" height="353" key="GridCell.Tab.1.bottom/1149.1105.1280.775/1920.25.1920.1055/0.25.1920.1055@0.25.1920.1055" timestamp="1666619256260" />
     <state width="1844" height="352" key="GridCell.Tab.1.bottom/1920.25.1080.1895/480.1105.1440.875/0.25.1920.1055@0.25.1920.1055" timestamp="1666506009411" />
     <state width="1844" height="352" key="GridCell.Tab.1.bottom/1920.25.1920.1055/1149.1105.1280.775/0.25.1920.1055@0.25.1920.1055" timestamp="1666497637489" />
-    <state width="1844" height="352" key="GridCell.Tab.1.center" timestamp="1666506009410">
+    <state width="1876" height="353" key="GridCell.Tab.1.center" timestamp="1666619256259">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
+    <state width="1876" height="353" key="GridCell.Tab.1.center/1149.1105.1280.775/1920.25.1920.1055/0.25.1920.1055@0.25.1920.1055" timestamp="1666619256259" />
     <state width="1844" height="352" key="GridCell.Tab.1.center/1920.25.1080.1895/480.1105.1440.875/0.25.1920.1055@0.25.1920.1055" timestamp="1666506009410" />
     <state width="1844" height="352" key="GridCell.Tab.1.center/1920.25.1920.1055/1149.1105.1280.775/0.25.1920.1055@0.25.1920.1055" timestamp="1666497637483" />
-    <state width="1844" height="352" key="GridCell.Tab.1.left" timestamp="1666506009410">
+    <state width="1876" height="353" key="GridCell.Tab.1.left" timestamp="1666619256258">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
+    <state width="1876" height="353" key="GridCell.Tab.1.left/1149.1105.1280.775/1920.25.1920.1055/0.25.1920.1055@0.25.1920.1055" timestamp="1666619256258" />
     <state width="1844" height="352" key="GridCell.Tab.1.left/1920.25.1080.1895/480.1105.1440.875/0.25.1920.1055@0.25.1920.1055" timestamp="1666506009410" />
     <state width="1844" height="352" key="GridCell.Tab.1.left/1920.25.1920.1055/1149.1105.1280.775/0.25.1920.1055@0.25.1920.1055" timestamp="1666497637480" />
-    <state width="1844" height="352" key="GridCell.Tab.1.right" timestamp="1666506009410">
+    <state width="1876" height="353" key="GridCell.Tab.1.right" timestamp="1666619256259">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
+    <state width="1876" height="353" key="GridCell.Tab.1.right/1149.1105.1280.775/1920.25.1920.1055/0.25.1920.1055@0.25.1920.1055" timestamp="1666619256259" />
     <state width="1844" height="352" key="GridCell.Tab.1.right/1920.25.1080.1895/480.1105.1440.875/0.25.1920.1055@0.25.1920.1055" timestamp="1666506009410" />
     <state width="1844" height="352" key="GridCell.Tab.1.right/1920.25.1920.1055/1149.1105.1280.775/0.25.1920.1055@0.25.1920.1055" timestamp="1666497637487" />
     <state x="594" y="187" width="1133" height="728" key="SettingsEditor" timestamp="1666496747261">
@@ -411,10 +425,11 @@
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state x="100" y="129" width="1688" height="851" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/1920.25.1920.1055/1149.1105.1280.775/0.25.1920.1055@0.25.1920.1055" timestamp="1666494754962" />
-    <state x="471" y="88" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1666432177165">
+    <state x="471" y="88" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1666619195588">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state x="353" y="77" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.25.1440.875@0.25.1440.875" timestamp="1662208360030" />
+    <state x="471" y="88" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1149.1105.1280.775/1920.25.1920.1055/0.25.1920.1055@0.25.1920.1055" timestamp="1666619195588" />
     <state x="471" y="88" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.25.1920.1055/1149.1105.1280.775/0.25.1920.1055@0.25.1920.1055" timestamp="1666432177165" />
     <state x="772" y="470" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1666435031172">
       <screen x="0" y="25" width="1920" height="1055" />
