@@ -14,6 +14,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c9124b4-243f-43f3-b67d-8e5a5b26fc95" name="デフォルト変更リスト" comment="intellijの設定">
+      <change afterPath="$PROJECT_DIR$/hacker-rank/Pangrams/Pangrams.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hacker-rank/Pangrams/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,21 +54,21 @@
     <property name="settings.editor.splitter.proportion" value="0.2886143" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hacker-rank" />
+      <recent name="$PROJECT_DIR$/hacker-rank/TimeConversion/src" />
+      <recent name="$PROJECT_DIR$/hacker-rank/TimeConversion" />
+      <recent name="$PROJECT_DIR$/hacke-rank/src/plusMinus" />
+      <recent name="$PROJECT_DIR$/hacke-rank/src" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/yumemi-problem/dummy-files" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/hacker-rank/TimeConversion/src" />
-      <recent name="$PROJECT_DIR$/hacker-rank/TimeConversion" />
-      <recent name="$PROJECT_DIR$/hacke-rank/src/plusMinus" />
-      <recent name="$PROJECT_DIR$/hacke-rank/src" />
-      <recent name="$PROJECT_DIR$/hacker-rank/src/plusMinus" />
-    </key>
   </component>
-  <component name="RunManager" selected="アプリケーション.Solution">
+  <component name="RunManager" selected="アプリケーション.Solution (3)">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="java-try-out-repository" />
@@ -80,9 +83,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="TimeConversion" />
+      <module name="Pangrams" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -101,26 +104,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="アプリケーション.Solution (3)" />
         <item itemvalue="アプリケーション.Solution" />
         <item itemvalue="アプリケーション.Solution (1)" />
         <item itemvalue="アプリケーション.Solution (4)" />
         <item itemvalue="アプリケーション.Main" />
-        <item itemvalue="アプリケーション.Solution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +141,8 @@
       <workItem from="1666525329993" duration="859000" />
       <workItem from="1666530940305" duration="186000" />
       <workItem from="1666531147647" duration="734000" />
-      <workItem from="1666604958922" duration="1029000" />
+      <workItem from="1666604958922" duration="1958000" />
+      <workItem from="1666618327446" duration="836000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1662214467297</created>
@@ -275,7 +277,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666607878672</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="idea変更">
+      <created>1666608626514</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1666608626514</updated>
+    </task>
+    <task id="LOCAL-00021" summary="fix comments">
+      <created>1666608647096</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1666608647096</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -306,11 +322,12 @@
     <MESSAGE value="intellijの設定" />
     <MESSAGE value="idea設定変更" />
     <MESSAGE value="hackerrankの回答" />
-    <MESSAGE value="idea変更" />
     <MESSAGE value="ゆめみのreadme" />
     <MESSAGE value="git設定変更" />
     <MESSAGE value="gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="gitignore" />
+    <MESSAGE value="idea変更" />
+    <MESSAGE value="fix comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix comments" />
   </component>
   <component name="WindowStateProjectService">
     <state x="786" y="274" key="#com.intellij.ide.util.MemberChooser" timestamp="1666445953047">
@@ -386,10 +403,10 @@
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state x="100" y="129" width="1688" height="851" key="VCS.FileHistoryDialog/1920.25.1920.1055/1149.1105.1280.775/0.25.1920.1055@0.25.1920.1055" timestamp="1666494754961" />
-    <state x="320" y="185" key="Vcs.Push.Dialog.v2" timestamp="1666607880302">
+    <state x="320" y="185" key="Vcs.Push.Dialog.v2" timestamp="1666608650328">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="320" y="185" key="Vcs.Push.Dialog.v2/0.25.1440.875@0.25.1440.875" timestamp="1666607880302" />
+    <state x="320" y="185" key="Vcs.Push.Dialog.v2/0.25.1440.875@0.25.1440.875" timestamp="1666608650328" />
     <state x="100" y="129" width="1688" height="851" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1666494754962">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
@@ -416,10 +433,11 @@
     </state>
     <state x="387" y="174" width="665" height="576" key="find.popup/0.25.1440.875@0.25.1440.875" timestamp="1662210016042" />
     <state x="516" y="205" width="887" height="813" key="find.popup/1920.25.1920.1055/1149.1105.1280.775/0.25.1920.1055@0.25.1920.1055" timestamp="1666495939312" />
-    <state x="17" y="67" key="new project wizard" timestamp="1666504928676">
+    <state x="17" y="67" key="new project wizard" timestamp="1666618652182">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state x="13" y="60" key="new project wizard/0.25.1440.875@0.25.1440.875" timestamp="1662208130405" />
+    <state x="17" y="67" key="new project wizard/1149.1105.1280.775/1920.25.1920.1055/0.25.1920.1055@0.25.1920.1055" timestamp="1666618652182" />
     <state x="17" y="67" key="new project wizard/1920.25.1080.1895/480.1105.1440.875/0.25.1920.1055@0.25.1920.1055" timestamp="1666504928676" />
     <state x="17" y="67" key="new project wizard/1920.25.1920.1055/1149.1105.1280.775/0.25.1920.1055@0.25.1920.1055" timestamp="1666497742661" />
     <state x="638" y="256" key="run.anything.popup" timestamp="1666498201230">
@@ -439,6 +457,11 @@
           <url>file://$PROJECT_DIR$/hacker-rank/MinMaxSum/src/Solution.java</url>
           <line>29</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/hacker-rank/Pangrams/src/Solution.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
