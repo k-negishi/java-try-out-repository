@@ -14,9 +14,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c9124b4-243f-43f3-b67d-8e5a5b26fc95" name="デフォルト変更リスト" comment="intellijの設定">
-      <change afterPath="$PROJECT_DIR$/yumemi-problem/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +140,7 @@
       <workItem from="1666525329993" duration="859000" />
       <workItem from="1666530940305" duration="186000" />
       <workItem from="1666531147647" duration="734000" />
-      <workItem from="1666604958922" duration="358000" />
+      <workItem from="1666604958922" duration="1029000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1662214467297</created>
@@ -249,7 +247,35 @@
       <option name="project" value="LOCAL" />
       <updated>1666531266163</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="idea変更">
+      <created>1666607718743</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1666607718743</updated>
+    </task>
+    <task id="LOCAL-00017" summary="ゆめみのreadme">
+      <created>1666607727423</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1666607727423</updated>
+    </task>
+    <task id="LOCAL-00018" summary="git設定変更">
+      <created>1666607789334</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1666607789334</updated>
+    </task>
+    <task id="LOCAL-00019" summary="gitignore">
+      <created>1666607878672</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1666607878672</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -280,7 +306,11 @@
     <MESSAGE value="intellijの設定" />
     <MESSAGE value="idea設定変更" />
     <MESSAGE value="hackerrankの回答" />
-    <option name="LAST_COMMIT_MESSAGE" value="hackerrankの回答" />
+    <MESSAGE value="idea変更" />
+    <MESSAGE value="ゆめみのreadme" />
+    <MESSAGE value="git設定変更" />
+    <MESSAGE value="gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignore" />
   </component>
   <component name="WindowStateProjectService">
     <state x="786" y="274" key="#com.intellij.ide.util.MemberChooser" timestamp="1666445953047">
@@ -356,6 +386,10 @@
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state x="100" y="129" width="1688" height="851" key="VCS.FileHistoryDialog/1920.25.1920.1055/1149.1105.1280.775/0.25.1920.1055@0.25.1920.1055" timestamp="1666494754961" />
+    <state x="320" y="185" key="Vcs.Push.Dialog.v2" timestamp="1666607880302">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="320" y="185" key="Vcs.Push.Dialog.v2/0.25.1440.875@0.25.1440.875" timestamp="1666607880302" />
     <state x="100" y="129" width="1688" height="851" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1666494754962">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
