@@ -19,11 +19,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c9124b4-243f-43f3-b67d-8e5a5b26fc95" name="デフォルト変更リスト" comment="intellijの設定">
-      <change afterPath="$PROJECT_DIR$/RestApiTutorial/RestApiTutorial.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApiTutorial/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApiTutorial/src/main/java/RestApiTutorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApiTutorial/src/main/java/Transcript.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,7 +156,7 @@
       <workItem from="1666702571400" duration="668000" />
       <workItem from="1666947323100" duration="10600000" />
       <workItem from="1667645688886" duration="1679000" />
-      <workItem from="1667661513729" duration="26202000" />
+      <workItem from="1667661513729" duration="26791000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1662214467297</created>
@@ -351,7 +347,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667713582946</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Java で REST API を呼び出す方法 - 簡単なチュートリアルを実践&#10;https://www.youtube.com/watch?v=9oq7Y8n1t00">
+      <created>1667714285825</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1667714285825</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
