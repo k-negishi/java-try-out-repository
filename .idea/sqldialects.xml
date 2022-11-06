@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/secret-problems/tracks/brainpad/src/brainpad_challenge_2/db/init.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/secret-problems/tracks/brainpad/src/brainpad_challenge_2/sql/step1.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/secret-problems/tracks/brainpad/src/brainpad_challenge_2/sql/step2.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/secret-problems/tracks/brainpad/src/brainpad_challenge_2/sql/step3.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/secret-problems/tracks/brainpad/src/brainpad_challenge_2/sql/step4.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/secret-problems/tracks/brainpad/src/brainpad_challenge_2/sql/step5.sql" dialect="GenericSQL" />
+  </component>
+</project>
