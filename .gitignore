@@ -16,3 +16,4 @@
 
 /secret/
 /RestApiTutorial/target/
+/RestApiTutorial/src/main/resources/sample.properties

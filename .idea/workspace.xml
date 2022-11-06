@@ -19,20 +19,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c9124b4-243f-43f3-b67d-8e5a5b26fc95" name="デフォルト変更リスト" comment="intellijの設定">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/RestApiTutorial/RestApiTutorial.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/RestApiTutorial/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApiTutorial/src/main/java/Constants.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/RestApiTutorial/src/main/java/RestApiTutorial.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/RestApiTutorial/src/main/java/Transcript.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-try-out-repository.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-try-out-repository.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,7 +160,7 @@
       <workItem from="1666702571400" duration="668000" />
       <workItem from="1666947323100" duration="10600000" />
       <workItem from="1667645688886" duration="1679000" />
-      <workItem from="1667661513729" duration="25429000" />
+      <workItem from="1667661513729" duration="26202000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1662214467297</created>
@@ -346,7 +337,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667645945517</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="idea changes">
+      <created>1667713570021</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1667713570021</updated>
+    </task>
+    <task id="LOCAL-00027" summary="idea changes">
+      <created>1667713582946</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1667713582946</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -385,7 +390,9 @@
     <MESSAGE value="solve HackerRank Pangrams&#10;https://www.hackerrank.com/challenges/one-month-preparation-kit-pangrams/problem?isFullScreen=true&amp;h_l=interview&amp;playlist_slugs%5B%5D=preparation-kits&amp;playlist_slugs%5B%5D=one-month-preparation-kit&amp;playlist_slugs%5B%5D=one-month-week-one" />
     <MESSAGE value="hackerrank solutions" />
     <MESSAGE value="idea setting" />
-    <option name="LAST_COMMIT_MESSAGE" value="idea setting" />
+    <MESSAGE value="idea changes" />
+    <MESSAGE value="Java で REST API を呼び出す方法 - 簡単なチュートリアルを実践&#10;https://www.youtube.com/watch?v=9oq7Y8n1t00" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java で REST API を呼び出す方法 - 簡単なチュートリアルを実践&#10;https://www.youtube.com/watch?v=9oq7Y8n1t00" />
   </component>
   <component name="WindowStateProjectService">
     <state x="212" y="385" key="#SQL_ダイアレクト" timestamp="1667667419860">
@@ -423,32 +430,32 @@
     <state x="484" y="343" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.25.1440.875@0.25.1440.875" timestamp="1667646694652" />
     <state x="436" y="214" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1149.1105.1280.775/1920.25.1920.1055/0.25.1920.1055@0.25.1920.1055" timestamp="1667712393482" />
     <state x="645" y="408" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1920.25.1920.1055/1149.1105.1280.775/0.25.1920.1055@0.25.1920.1055" timestamp="1666427274640" />
-    <state width="1822" height="280" key="GridCell.Tab.0.bottom" timestamp="1667713177271">
+    <state width="1822" height="280" key="GridCell.Tab.0.bottom" timestamp="1667713771858">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state width="1396" height="226" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1667015467895" />
-    <state width="1822" height="280" key="GridCell.Tab.0.bottom/1149.1105.1280.775/1920.25.1920.1055/0.25.1920.1055@0.25.1920.1055" timestamp="1667713177271" />
+    <state width="1822" height="280" key="GridCell.Tab.0.bottom/1149.1105.1280.775/1920.25.1920.1055/0.25.1920.1055@0.25.1920.1055" timestamp="1667713771858" />
     <state width="1844" height="352" key="GridCell.Tab.0.bottom/1920.25.1080.1895/480.1105.1440.875/0.25.1920.1055@0.25.1920.1055" timestamp="1666506009410" />
     <state width="1844" height="225" key="GridCell.Tab.0.bottom/1920.25.1920.1055/1149.1105.1280.775/0.25.1920.1055@0.25.1920.1055" timestamp="1666498487659" />
-    <state width="1822" height="280" key="GridCell.Tab.0.center" timestamp="1667713177270">
+    <state width="1822" height="280" key="GridCell.Tab.0.center" timestamp="1667713771856">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state width="1396" height="226" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1667015467892" />
-    <state width="1822" height="280" key="GridCell.Tab.0.center/1149.1105.1280.775/1920.25.1920.1055/0.25.1920.1055@0.25.1920.1055" timestamp="1667713177270" />
+    <state width="1822" height="280" key="GridCell.Tab.0.center/1149.1105.1280.775/1920.25.1920.1055/0.25.1920.1055@0.25.1920.1055" timestamp="1667713771856" />
     <state width="1844" height="352" key="GridCell.Tab.0.center/1920.25.1080.1895/480.1105.1440.875/0.25.1920.1055@0.25.1920.1055" timestamp="1666506009409" />
     <state width="1844" height="225" key="GridCell.Tab.0.center/1920.25.1920.1055/1149.1105.1280.775/0.25.1920.1055@0.25.1920.1055" timestamp="1666498487657" />
-    <state width="1822" height="280" key="GridCell.Tab.0.left" timestamp="1667713177269">
+    <state width="1822" height="280" key="GridCell.Tab.0.left" timestamp="1667713771855">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state width="1396" height="226" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1667015467892" />
-    <state width="1822" height="280" key="GridCell.Tab.0.left/1149.1105.1280.775/1920.25.1920.1055/0.25.1920.1055@0.25.1920.1055" timestamp="1667713177269" />
+    <state width="1822" height="280" key="GridCell.Tab.0.left/1149.1105.1280.775/1920.25.1920.1055/0.25.1920.1055@0.25.1920.1055" timestamp="1667713771855" />
     <state width="1844" height="352" key="GridCell.Tab.0.left/1920.25.1080.1895/480.1105.1440.875/0.25.1920.1055@0.25.1920.1055" timestamp="1666506009409" />
     <state width="1844" height="225" key="GridCell.Tab.0.left/1920.25.1920.1055/1149.1105.1280.775/0.25.1920.1055@0.25.1920.1055" timestamp="1666498487657" />
-    <state width="1822" height="280" key="GridCell.Tab.0.right" timestamp="1667713177270">
+    <state width="1822" height="280" key="GridCell.Tab.0.right" timestamp="1667713771857">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state width="1396" height="226" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1667015467895" />
-    <state width="1822" height="280" key="GridCell.Tab.0.right/1149.1105.1280.775/1920.25.1920.1055/0.25.1920.1055@0.25.1920.1055" timestamp="1667713177270" />
+    <state width="1822" height="280" key="GridCell.Tab.0.right/1149.1105.1280.775/1920.25.1920.1055/0.25.1920.1055@0.25.1920.1055" timestamp="1667713771857" />
     <state width="1844" height="352" key="GridCell.Tab.0.right/1920.25.1080.1895/480.1105.1440.875/0.25.1920.1055@0.25.1920.1055" timestamp="1666506009410" />
     <state width="1844" height="225" key="GridCell.Tab.0.right/1920.25.1920.1055/1149.1105.1280.775/0.25.1920.1055@0.25.1920.1055" timestamp="1666498487658" />
     <state width="1822" height="184" key="GridCell.Tab.1.bottom" timestamp="1667702270902">
