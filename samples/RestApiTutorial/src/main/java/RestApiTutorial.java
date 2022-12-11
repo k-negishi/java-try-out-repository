@@ -1,4 +1,4 @@
-import com.google.gson.Gson;
+package RestApiTutorial.src.main.java;
 
 import java.net.URI;
 import java.net.http.HttpClient;
