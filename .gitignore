@@ -9,7 +9,7 @@
 /out/
 /yumemi-problem/dummy-files/
 /secret-problems/
-/src/Main.java
+/samples/Main.java
 /out/production/
 /.idea/workspace.xml
 /.idea/modules.xml
@@ -17,3 +17,5 @@
 /secret/
 /RestApiTutorial/target/
 /RestApiTutorial/src/main/resources/sample.properties
+/samples/RestApiTutorial/src/main/resources/sample.properties
+/samples/RestApiTutorial/target/
