@@ -1,4 +1,4 @@
-package RestApiTutorial.src.main.java;
+import com.google.gson.Gson;
 
 import java.net.URI;
 import java.net.http.HttpClient;
@@ -33,7 +33,7 @@ public class RestApiTutorial {
         String apiKey = bundle.getString("assemblyai.key");
 
         // postRequestに必要な情報を作成
-        HttpRequest postRequest = newBuilder()
+        HttpRequest postRequest = HttpRequest.newBuilder()
                 .uri(new URI("https://api.assemblyai.com/v2/transcript"))
                 .header("Authorization", apiKey)
                 .POST(BodyPublishers.ofString(jsonRequest))
@@ -52,7 +52,7 @@ public class RestApiTutorial {
         System.out.println(transcript.getId());
 
         // get requestに必要な情報生成
-        HttpRequest getRequest = newBuilder()
+        HttpRequest getRequest = HttpRequest.newBuilder()
                 .uri(new URI("https://api.assemblyai.com/v2/transcript/" + transcript.getId()))
                 .header("Authorization", apiKey)
                 // .GET() getはデフォルトのため、省略可能

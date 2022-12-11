@@ -1,5 +1,3 @@
-package RestApiTutorial.src.main.java;
-
 public class Transcript {
 
     private String audio_url;

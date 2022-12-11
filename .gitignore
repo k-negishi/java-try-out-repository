@@ -17,5 +17,5 @@
 /secret/
 /RestApiTutorial/target/
 /RestApiTutorial/src/main/resources/sample.properties
-/samples/RestApiTutorial/src/main/resources/sample.properties
-/samples/RestApiTutorial/target/
+/SampleModules/RestApiTutorial/src/main/resources/sample.properties
+/SampleModules/RestApiTutorial/target/
