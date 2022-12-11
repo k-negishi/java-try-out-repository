@@ -4,7 +4,6 @@ import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.nio.file.Files;
 import java.nio.file.Path;
-import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.LinkedHashMap;
@@ -25,7 +24,7 @@ public class GetRanking {
     public static final int DEFAULT_PLAY_COUNT = 1;
 
     public static void main(String[] args) throws IOException {
-        Path rankingPath = Path.of("yumemi-problem/game_score_log.csv");
+        Path rankingPath = Path.of("yumemi-problem/dummy-files/game_score_log2022-10-22T18:34:29.510055.csv");
 
         List<PlayerScore> playerScoreList = new ArrayList<>();
         // key:player id, value:listのindexを管理すためのMap
