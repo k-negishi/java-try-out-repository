@@ -4,6 +4,7 @@ import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.nio.file.Files;
 import java.nio.file.Path;
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -15,7 +16,7 @@ public class GetRanking3 {
     public static final int DEFAULT_PLAY_COUNT = 1;
 
     public static void main(String[] args) {
-        Path rankingPath = Path.of("yumemi-problem/dummy-files/game_score_log2022-10-22T18:34:29.510055.csv");
+        Path rankingPath = Path.of("yumemi-problem/dummy-files/game_score_log.csv");
 
         try (BufferedReader reader = Files.newBufferedReader(rankingPath)) {
             // CSV ファイルから Stream を作成
@@ -26,7 +27,9 @@ public class GetRanking3 {
 
             // Stream を読み込んで、各行の値を処理
             lines.skip(1)  // 1 行目をスキップ
+//                    .peek(v -> System.out.println(v.toString()))
                     .map(line -> line.split(","))  // カンマで分割して配列に変換
+//                    .peek(v -> System.out.println(Arrays.toString(v)))
                     .collect(Collectors.groupingBy(data -> data[1]))  // playerId ごとにグループ化
                     .forEach((playerId, playerScores) -> {
                         // 各プレイヤーのスコアとプレイ回数の合計値を求める
